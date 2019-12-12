@@ -1,4 +1,4 @@
-# CountOfPrime #PrimeNumber
+# CountOfPrime # PrimeNumber # Java
 Optimized algorithm. Which gives count of Prime numbers from 1 to N.
 
 Input : One integer number.
